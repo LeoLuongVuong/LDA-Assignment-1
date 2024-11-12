@@ -378,11 +378,7 @@ All these effects are statistically significant.
 
 ::: notes
 - We also performed the F-test for fixed effects and that gave us the same p-values as the wald test shown on the slide.
-- Over all, the mean Hgb concentration decreases over time, though it's not significant in LMM, but only in multivariate model.
-- EPO increases Hgb over time, counteract the decrease in Hgb over time.
-- Iron-deficient patients have higher baseline Hgb but there Hgb decreases over time
-- Patients with higher EPO dose have higher baseline Hgb
-- Older patients and male patients have higher baseline Hgb 
+- Further interpreation of the results will be discussed later in the conclusions section.
 :::
 
 ## Linear mixed model
